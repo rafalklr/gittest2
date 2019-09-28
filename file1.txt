@@ -1,5 +1,6 @@
 To jest pierwsza linia kodu.
 To jest druga linia kodu.
 Dodanie gałęzi master.
+zmiana do gałęzi s
 
 
